@@ -4,7 +4,7 @@
 
 # التنصيب
 
-git clone https://github.com/x7h/x7_bot.git
+git clone https://github.com/alaajs/memomemo.git
 
 cd x7_bot
 
