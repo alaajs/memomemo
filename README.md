@@ -6,7 +6,7 @@
 
 git clone https://github.com/alaajs/memomemo.git
 
-cd x7_bot
+cd memomemo
 
 chmod +x x7_bot.sh
 
